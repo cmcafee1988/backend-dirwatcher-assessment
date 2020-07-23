@@ -10,7 +10,7 @@ from datetime import datetime as dt
 import argparse
 import os
 
-__author__ = """Tiffany M, https://www.youtube.com/watch?v=yEhQheTKRQI&feature=embhttps://www.youtube.com/watch?v=yEhQheTKRQI&feature=emb_logo_logo"""
+__author__ = """Chris M, Helped by Tiffany M, https://www.youtube.com/watch?v=yEhQheTKRQI&feature=embhttps://www.youtube.com/watch?v=yEhQheTKRQI&feature=emb_logo_logo"""
 
 import errno
 import os
